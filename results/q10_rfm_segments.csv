@@ -1,0 +1,7 @@
+segment,customers,pct_customers,avg_recency_days,avg_spend,pct_revenue
+"1. Loyal (repeat, recent)",1539,1.7,114,314.91,3.2
+"2. Repeat, inactive",1250,1.3,353,300.71,2.4
+3. New high spenders,10881,11.7,113,389.18,27.5
+"4. New, lower spend",34128,36.7,113,89.49,19.9
+5. Lapsed high spenders,10630,11.4,365,392.00,27.1
+"6. Lapsed, lower spend",34668,37.2,363,88.14,19.9

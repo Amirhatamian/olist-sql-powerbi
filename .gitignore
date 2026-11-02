@@ -1,0 +1,2 @@
+# Raw Kaggle CSVs (126 MB): download them from Kaggle into data/
+data/*.csv

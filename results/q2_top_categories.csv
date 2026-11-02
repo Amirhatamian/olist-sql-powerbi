@@ -1,0 +1,11 @@
+rank,category,orders,revenue,share_pct,cumulative_share_pct
+1,health_beauty,8610,1229558,9.3,9.3
+2,watches_gifts,5489,1163188,8.8,18.2
+3,bed_bath_table,9267,1022956,7.8,25.9
+4,sports_leisure,7512,952661,7.2,33.1
+5,computers_accessories,6517,887945,6.7,39.9
+6,furniture_decor,6258,706237,5.4,45.2
+7,housewares,5734,614342,4.7,49.9
+8,cool_stuff,3552,609158,4.6,54.5
+9,auto,3801,577721,4.4,58.9
+10,garden_tools,3443,469135,3.6,62.5
